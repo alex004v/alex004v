@@ -6,7 +6,7 @@
 <ul>
   <li><strong>Анализ данных:</strong> pandas, NumPy, SciPy, StatsModels</li>
   <li><strong>Визуализация:</strong> Matplotlib, Seaborn, Plotly</li>
-  <li><strong>Машинное обучение:</strong> scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, Keras</li>
+  <li><strong>Машинное обучение:</strong> scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, Keras, Ансамблирование (Stacking, Blending)</li>
   <li><strong>Признаки и интерпретация:</strong> Feature Engineering, обработка дисбаланса классов (Focal Loss, class weights), phik, SHAP</li>
   <li><strong>Оптимизация и валидация:</strong> Подбор гиперпараметров (Optuna, Keras Tuner), кросс-валидация и OOF-предсказания, регуляризация</li>
   <li><strong>NLP & Computer Vision:</strong> TF-IDF, Word2Vec, BERT, CNN, RNN, ResNet</li>
