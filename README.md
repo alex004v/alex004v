@@ -9,7 +9,7 @@
   <li><strong>Машинное обучение:</strong> scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, Keras, FCN</li>
   <li><strong>Интерпретация и анализ признаков:</strong> phik, SHAP</li>
   <li><strong>NLP & Computer Vision:</strong> TF-IDF, Word2Vec, BERT, CNN, RNN</li>
-  <li><strong>Статистика и прогнозирование:</strong> A/B-тестирование, проверка гипотез, бутстрап, анализ временных рядов (Prophet, ARIMA/SARIMAX)</li>
+  <li><strong>Статистика и прогнозирование:</strong> A/B-тестирование, проверка гипотез, бутстрап, временные ряды (Prophet, ARIMA/SARIMAX)</li>
   <li><strong>Большие данные:</strong> PySpark (базово)</li>
   <li><strong>Базы данных:</strong> MySQL, PostgreSQL, SqlAlchemy</li>
 </ul>
