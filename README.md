@@ -18,9 +18,9 @@
 <ul>
   <li>
     <a href="https://github.com/alex004v/ds_portfolio" target="_blank" rel="noopener noreferrer">
-      <strong>DS-portfolio</strong>
+      <strong>DS-Portfolio-YP</strong>
     </a> 
     <br>
-    <em>Коллекция проектов и решений, выполненных в рамках обучения (Яндекс.Практикум) и самостоятельной работы.</em>
+    <em>Проекты, выполненные в рамках обучения (Яндекс.Практикум).</em>
   </li>
 </ul>
