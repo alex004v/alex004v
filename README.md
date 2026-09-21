@@ -1,4 +1,4 @@
-<h1 align="left">Васильев Алексей</h1>
+<h1 align="left">Алексей Васильев</h1>
 <h2 align="left">Data Scientist</h2>
 
 <h3 align="left">Ключевые навыки</h3>
