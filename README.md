@@ -35,6 +35,6 @@
 <h3 align="left">Контакты</h3>
 <ul>
   <li>E-mail: alex004v@yandex.ru</li>
-  <li><a href="https://www.p-ba.org" target="_blank" rel="noopener noreferrer"><strong>www.p-ba.org</strong></li>
+  <li><a href="https://www.p-ba.org" target="_new" rel="noopener noreferrer"><strong>www.p-ba.org</strong></li>
 </ul>
 
