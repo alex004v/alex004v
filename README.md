@@ -15,7 +15,7 @@
 
 <h3 align="left">🛠 Ключевые навыки</h3>
 <ul>
-  <li><strong>Программирование:</strong> python</li>
+  <li><strong>Программирование:</strong> Python</li>
   <li><strong>Анализ данных:</strong> pandas, NumPy, SciPy, StatsModels</li>
   <li><strong>Визуализация:</strong> Matplotlib, Seaborn, Plotly</li>
   <li><strong>Машинное обучение:</strong> scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, Keras, Ансамблирование (Stacking, Blending)</li>
@@ -36,7 +36,7 @@
       <strong>DS-Portfolio-YP</strong>
     </a> 
     <br>
-    <em>Коллекция end-to-end проектов (Яндекс.Практикум).</em>
+    <em>Коллекция end-to-end проектов (Яндекс.Практикум): анализ данных, ML, NLP и прогнозирование.</em>
   </li>
 </ul>
 
@@ -44,9 +44,9 @@
 
 <h3 align="left">🎓 Образование</h3>
 <ul>
-  <li><strong>Переподготовка:</strong> Курс "Data Science расширенный" - Яндекс Практикум (2025–2026)</li>
-  <li><strong>Переподготовка:</strong> "Оценочная деятельность" - МФПА "Синергия" (2003–2004)</li>
-  <li><strong>Высшее:</strong> "Прикладная математика" - Уфимский государственный авиационный технический университет (УГАТУ) (1993–1998)</li>
+  <li><strong>Переподготовка:</strong> Курс "Data Science расширенный" — Яндекс Практикум (2025–2026)</li>
+  <li><strong>Переподготовка:</strong> "Оценочная деятельность" — МФПА "Синергия" (2003–2004) <em>*(рекомендую перепроверить год окончания, если это была полная программа)*</em></li>
+  <li><strong>Высшее:</strong> "Прикладная математика" — Уфимский государственный авиационный технический университет (УГАТУ) (1993–1998)</li>
 </ul>
 
 <hr>
