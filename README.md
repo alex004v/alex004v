@@ -17,7 +17,7 @@
 <h3 align="left">Проекты</h3>
 <ul>
   <li>
-    <a href="https://github.com/alex004v/ds_portfolio" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/alex004v/ds_portfolio_yp" target="_blank" rel="noopener noreferrer">
       <strong>DS-Portfolio-YP</strong>
     </a> 
     <br>
