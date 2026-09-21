@@ -1,9 +1,15 @@
 <h1 align="left">Алексей Васильев</h1>
-
 <h2 align="left">Data Scientist</h2>
 
-<h3 align="left">Ключевые навыки</h3>
+<p align="left">
+  Data Scientist с фундаментальной базой в прикладной математике и современной экспертизой в ML/DL.
+</p>
+
+<hr>
+
+<h3 align="left">🛠 Ключевые навыки</h3>
 <ul>
+  <li><strong>Программирование:</strong> python</li>
   <li><strong>Анализ данных:</strong> pandas, NumPy, SciPy, StatsModels</li>
   <li><strong>Визуализация:</strong> Matplotlib, Seaborn, Plotly</li>
   <li><strong>Машинное обучение:</strong> scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, Keras, Ансамблирование (Stacking, Blending)</li>
@@ -15,27 +21,32 @@
   <li><strong>Базы данных:</strong> MySQL, PostgreSQL, SQLAlchemy</li>
 </ul>
 
-<h3 align="left">Проекты</h3>
+<hr>
+
+<h3 align="left">📂 Проекты</h3>
 <ul>
   <li>
     <a href="https://github.com/alex004v/ds_portfolio_yp" target="_blank" rel="noopener noreferrer">
       <strong>DS-Portfolio-YP</strong>
     </a> 
     <br>
-    <em>Проекты, выполненные в рамках обучения (Яндекс.Практикум).</em>
+    <em>Коллекция end-to-end проектов (Яндекс.Практикум).</em>
   </li>
 </ul>
 
-<h3 align="left">Образование</h3>
+<hr>
+
+<h3 align="left">🎓 Образование</h3>
 <ul>
-  <li>Переподготовка - Курс "Data Science расширенный" - Яндекс Практикум (2025-2026)</li>
-  <li>Высшее - "Оценочная деятельность" - Московская финансово-промышленная академия "Синергия" (2003-2004)</li>
-  <li>Высшее - "Прикладная математика" - Уфимский государственный авиационный технический университет (1993-1998)</li>
+  <li><strong>Переподготовка:</strong> Курс "Data Science расширенный" - Яндекс Практикум (2025–2026)</li>
+  <li><strong>Переподготовка:</strong> "Оценочная деятельность" - МФПА "Синергия" (2003–2004)</li>
+  <li><strong>Высшее:</strong> "Прикладная математика" - Уфимский государственный авиационный технический университет (УГАТУ) (1993–1998)</li>
 </ul>
 
-<h3 align="left">Контакты</h3>
-<ul>
-  <li>📧 E-mail: <a href="mailto:alex004v@yandex.ru" rel="noopener noreferrer">alex004v@yandex.ru</a></li>
-  <li>🌐 Сайт-визитка (оценочная деятельность): <a href="https://www.p-ba.org" target="_blank" rel="noopener noreferrer">www.p-ba.org</a></li>
-</ul>
+<hr>
 
+<h3 align="left">📬 Контакты</h3>
+<ul>
+  <li>📧 E-mail: <a href="mailto:alex004v@yandex.ru">alex004v@yandex.ru</a></li>
+  <li>🌐 Сайт: <a href="https://www.p-ba.org" target="_blank" rel="noopener noreferrer">www.p-ba.org</a> <em>(Оценочная деятельность)</em></li>
+</ul>
