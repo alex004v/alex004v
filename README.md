@@ -2,8 +2,14 @@
 <h2 align="left">Data Scientist</h2>
 
 <p align="left">
-  Data Scientist с фундаментальной базой в прикладной математике и современной экспертизой в ML/DL.
+  <strong>Опытный аналитик с фундаментальной базой в прикладной математике, осознанно переходящий в Data Science из сферы оценки стоимости бизнеса.</strong>
 </p>
+<ul>
+  <li><strong>20+ лет</strong> в оценке бизнеса, <strong>100+ крупных проектов</strong> 
+  (<a href="https://p-ba.org/projects/" target="_blank" rel="noopener noreferrer">портфолио</a>).</li>
+  <li>Переход в Data Science/ML мотивирован ограничениями ручного финмоделирования и задачами автоматизации/масштабирования аналитики.</li>
+  <li>Выбрал Python, SQL и стек Scikit-learn / TensorFlow / Keras для перехода от ретроспективных отчетов и данных к предиктивным решениям.</li>
+</ul>
 
 <hr>
 
