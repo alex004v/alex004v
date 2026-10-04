@@ -23,7 +23,7 @@
   <li><strong>Оптимизация и валидация:</strong> Подбор гиперпараметров (Optuna, Keras Tuner), кросс-валидация и OOF-предсказания, регуляризация</li>
   <li><strong>NLP & Computer Vision:</strong> TF-IDF, Word2Vec, BERT, CNN, RNN, ResNet</li>
   <li><strong>Статистика и прогнозирование:</strong> A/B-тестирование, проверка гипотез, бутстрап, анализ временных рядов (Prophet, ARIMA/SARIMAX)</li>
-  <li><strong>Инженерные практики и Big Data:</strong> Git, модульная архитектура кода (базово), PySpark (базово), работа с разреженными матрицами</li>
+  <li><strong>Инженерные практики и Big Data:</strong> Git, модульная архитектура кода (базово), PySpark (базово)</li>
   <li><strong>Базы данных:</strong> PostgreSQL, SQLAlchemy</li>
 </ul>
 
