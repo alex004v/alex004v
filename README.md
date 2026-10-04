@@ -29,7 +29,7 @@
 
 <hr>
 
-<h3 align="left">📂 Проекты</h3>
+<h3 align="left">📂 Портфолио проектов</h3>
 <ul>
   <li>
     <a href="https://github.com/alex004v/ds_portfolio_yp" target="_blank" rel="noopener noreferrer">
