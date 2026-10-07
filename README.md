@@ -6,7 +6,7 @@
 </p>
 <ul>
   <li><strong>20+ лет</strong> в оценке бизнеса, <strong>100+ крупных проектов</strong> 
-  (<a href="https://p-ba.org/projects/" target="_blank" rel="noopener noreferrer">портфолио</a>).</li>
+  (<a href="https://p-ba.org/projects/" target="_blank" rel="noopener noreferrer">портфолио - оценка бизнеса</a>).</li>
   <li>Переход в Data Science/ML мотивирован ограничениями ручного финмоделирования и задачами автоматизации/масштабирования аналитики.</li>
   <li>Выбрал Python, SQL и стек Scikit-learn / TensorFlow / Keras для перехода от ретроспективных отчетов и данных к предиктивным решениям.</li>
 </ul>
