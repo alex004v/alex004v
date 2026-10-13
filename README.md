@@ -39,7 +39,7 @@
     <em>Коллекция end-to-end проектов (Яндекс.Практикум): анализ данных, ML, NLP, CV, прогнозирование.</em>
   </li>
     <li>
-    <a href="https://github.com/alex004v/ds_portfolio_yp" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/alex004v/ds_portfolio_pet" target="_blank" rel="noopener noreferrer">
       <strong>DS-Portfolio-PET</strong>
     </a> 
     <br>
