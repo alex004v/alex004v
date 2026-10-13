@@ -38,6 +38,13 @@
     <br>
     <em>Коллекция end-to-end проектов (Яндекс.Практикум): анализ данных, ML, NLP, CV, прогнозирование.</em>
   </li>
+    <li>
+    <a href="https://github.com/alex004v/ds_portfolio_yp" target="_blank" rel="noopener noreferrer">
+      <strong>DS-Portfolio-YP</strong>
+    </a> 
+    <br>
+    <em>Коллекция pet-проектов: прокачка навыков в Data Science/ML.</em>
+  </li>
 </ul>
 
 <hr>
